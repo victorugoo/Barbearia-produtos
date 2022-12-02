@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+   <head>
+     <meta charset="UTF-8">
+     <title> produtos </title> 
+     <link rel='stylesheet' type='text/css'media='screen' href='reset.css'>
+     <link rel='stylesheet'type='text/css'media='screen'href='produtos.css'>
+     
+           </head>
+ 
+
+   <body>
+   <header>
+     <div class="caixa">
+       <h1> <img src="https://cdn1.gnarususercontent.com.br/1/1125050/6e04bde8-5872-4d1d-8f26-fdb181dfaced.png">  </h1>
+     <nav>   
+    <ul>
+      <li> <a href="index.html"> HOME </a> </li>
+      <li> <a href="produtos.html"> PRODUTOS </a> </li>
+      <li> <a href="contato.html"> CONTATOS </a> </li>
+       </ul>
+     </nav>
+     </div>
+     </header>
+     <main>
+       <ul class="produtos">
+         <li>
+           <h2> cabelo </h2>
+         <img src=" https://espacodabelle.com.br/upload_arquivos/2019/01/2019010288735001548201306.jpg" class= "imagemprodutos1" >
+           <p> Na tesoura ou maquiná, como o cliente preferir  </p>
+           <p> R$ 30,00 </p>       
+         </li>
+         <li>
+           
+           <h2> barba </h2> 
+         <img src="https://blog.barbaderespeito.com.br/wp-content/uploads/2021/06/curso-de-barbeiro-online.jpg" class= "imagemprodutos2" >
+           <p> Corte e desenho profissional de barba </p>
+           <p> R$ 35,00 </p>
+         </li>
+         <li>
+           <h2> cabelo+barba </h2>
+           <img src="https://i.pinimg.com/736x/e0/fd/a1/e0fda1b380107103774d7a0e9243483d--beard-styles-trimmed-mens-hairstyles-with-beard.jpg"  class= "imagemprodutos3">
+            <p>  Pacote completo de cabelo e barba </p>
+           <p> R$ 57,00 </p>
+              </li>
+       </ul>
+     </main>
+  
+   </body>
+</html>
